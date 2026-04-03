@@ -61,3 +61,7 @@ footer {
 .card {
   border-radius: 0;
 }
+
+.green {
+  background-color: green;
+}
